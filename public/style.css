@@ -10,19 +10,24 @@ div{
 
 .title{
     font-size: 2.5rem;
+    background-color: #4c4d4f;
 }
 
 .subHeading{
     font-size: 2rem;
 }
 
-
-h3{
-    background-color: #4c4d4f;
+.divProfile{
+    display: inline;
 }
 
-#profilePicture{
+.divProfile img{
     max-width: 50%;
+    float: left;
+}
+
+.divProfile hr{
+    clear: both;
 }
 
 img{
