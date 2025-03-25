@@ -30,6 +30,10 @@ div{
     clear: both;
 }
 
+.divProjects ul{
+    text-align: center;
+}
+
 img{
     border: 3px solid #dca11d;
 }
@@ -37,4 +41,3 @@ img{
 .description{
     font-style: italic;
 }
-
